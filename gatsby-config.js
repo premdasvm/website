@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Premdas V M',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Premdas V M is a software engineer who specializes in building cutting-edge B2B applications that are meticulously crafted to cater to the unique needs of businesses.',
+    siteUrl: 'https://premdasvm.xyz', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@premdasvm',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
