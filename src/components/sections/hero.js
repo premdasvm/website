@@ -64,17 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
-      <p>
-        I’m a software engineer with a deep passion for crafting outstanding digital experiences
-        that propel businesses forward. Specializing in full-stack development, I have honed my
-        expertise in creating software products that accelerate growth and drive success. Currently,
-        my primary focus at{' '}
-        <a href="https://ideenkreisetech.com/" target="_blank" rel="noreferrer">
-          Ideenkreise Tech
-        </a>{' '}
-        revolves around building cutting-edge B2B applications that are meticulously crafted to
-        cater to the unique needs of businesses.
-      </p>
+      <p>I’m a full stack developer based in Muvattupuzha, Kerala.</p>
     </>
   );
   const five = (

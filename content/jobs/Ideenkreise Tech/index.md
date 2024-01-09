@@ -1,6 +1,6 @@
 ---
 date: '2020-01-20'
-title: 'Team Lead'
+title: 'Project Manager / Team Lead'
 company: 'Ideenkreise Tech'
 location: 'Muvattupuzha, Kerala'
 range: 'Jan 2020 - Present'
